@@ -1,1 +1,1 @@
-# A simple solution to the Hash Code 2019 problem that achieves a score of 693,299.
+A simple solution to the Hash Code 2019 problem that achieves a score of 693,299.
